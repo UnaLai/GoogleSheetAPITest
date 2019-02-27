@@ -1,0 +1,18 @@
+.container{
+  text-align: center;
+  width: 40%;
+  background-color: #8cd2bc;
+  padding: 20px;
+  border: 1px solid black;
+  font-size: 15px;
+}
+.container div{
+  margin-bottom: 10px;
+}
+.container input{
+  width: 70%;
+}
+button{
+  background-color: white;
+  border: none;
+}
